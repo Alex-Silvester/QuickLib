@@ -1,0 +1,37 @@
+# ninja log v5
+3	74	7557257277408285	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	acf53ce6cb36562b
+3	74	7557257277408285	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	acf53ce6cb36562b
+75	7071	7557257347402377	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	58918bba6e0c6758
+75	7071	7557257347402377	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	58918bba6e0c6758
+12	156	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bf4ba67d0c779ff4
+156	218	7557305321751527	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a514c13aac2db572
+12	156	0	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bf4ba67d0c779ff4
+156	218	7557305321751527	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a514c13aac2db572
+218	284	7557305322414516	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93db05a15e7a2efd
+476	564	7557305325198382	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	cee02cb3f8ad1154
+218	284	7557305322414516	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93db05a15e7a2efd
+285	349	7557305323031885	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	6722f978d31137e
+285	349	7557305323031885	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	6722f978d31137e
+349	413	7557305323676881	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	bef82a1d93c97aa5
+349	413	7557305323676881	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	bef82a1d93c97aa5
+413	476	7557305324313496	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	345f9d7de69c913
+413	476	7557305324313496	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	345f9d7de69c913
+476	564	7557305325198382	CMakeFiles/sfml-populate-complete	cee02cb3f8ad1154
+476	564	7557305325198382	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	cee02cb3f8ad1154
+476	564	7557305325198382	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	cee02cb3f8ad1154
+10	157	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bf4ba67d0c779ff4
+10	157	0	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bf4ba67d0c779ff4
+157	218	7557316762374823	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a514c13aac2db572
+157	218	7557316762374823	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a514c13aac2db572
+218	279	7557316762996012	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93db05a15e7a2efd
+218	279	7557316762996012	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	93db05a15e7a2efd
+279	343	7557316763639950	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	6722f978d31137e
+279	343	7557316763639950	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	6722f978d31137e
+343	412	7557316764317782	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	bef82a1d93c97aa5
+343	412	7557316764317782	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	bef82a1d93c97aa5
+412	478	7557316764994373	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	345f9d7de69c913
+412	478	7557316764994373	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	345f9d7de69c913
+479	563	7557316765844512	CMakeFiles/sfml-populate-complete	cee02cb3f8ad1154
+479	563	7557316765844512	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	cee02cb3f8ad1154
+479	563	7557316765844512	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	cee02cb3f8ad1154
+479	563	7557316765844512	C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	cee02cb3f8ad1154
