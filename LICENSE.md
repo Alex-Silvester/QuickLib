@@ -1,2 +1,2 @@
 
-Copyright (C) 2024 Alex S
+Copyright (C) 2024 Alex Silvester
