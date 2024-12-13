@@ -7,7 +7,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "build examples"
+					"value" : "Build examples"
 				}
 			],
 			"type" : "BOOL",
@@ -47,7 +47,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Choose the type of build (Debug or Release)"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
@@ -955,7 +955,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "9"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -1874,18 +1874,6 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "QuickLib_LIB_DEPENDS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Dependencies for the target"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "general;sfml-graphics;"
-		},
-		{
 			"name" : "QuickLib_SOURCE_DIR",
 			"properties" : 
 			[
@@ -1992,6 +1980,30 @@
 			],
 			"type" : "BOOL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "SFML_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for SFML."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/SFML-2.6.0/lib/cmake/SFML"
+		},
+		{
+			"name" : "SFML_DOC_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "SFML_DOC_DIR-NOTFOUND"
 		},
 		{
 			"name" : "SFML_GENERATE_PDB",
