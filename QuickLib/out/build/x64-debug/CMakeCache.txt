@@ -14,6 +14,9 @@
 # EXTERNAL cache entries
 ########################
 
+//build examples
+BUILD_EXAMPLES:BOOL=OFF
+
 //TRUE to build SFML as shared libraries, FALSE to build it as
 // static libraries
 BUILD_SHARED_LIBS:BOOL=TRUE
@@ -335,6 +338,9 @@ QuickLib_BINARY_DIR:STATIC=C:/Users/alexs/various cpp/QuickLib/QuickLib/out/buil
 
 //Value Computed by CMake
 QuickLib_IS_TOP_LEVEL:STATIC=ON
+
+//Dependencies for the target
+QuickLib_LIB_DEPENDS:STATIC=general;sfml-graphics;
 
 //Value Computed by CMake
 QuickLib_SOURCE_DIR:STATIC=C:/Users/alexs/various cpp/QuickLib/QuickLib

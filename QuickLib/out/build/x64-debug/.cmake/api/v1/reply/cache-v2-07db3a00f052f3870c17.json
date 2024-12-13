@@ -2,6 +2,18 @@
 	"entries" : 
 	[
 		{
+			"name" : "BUILD_EXAMPLES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "build examples"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
 			"name" : "BUILD_SHARED_LIBS",
 			"properties" : 
 			[
@@ -1860,6 +1872,18 @@
 			],
 			"type" : "STATIC",
 			"value" : "ON"
+		},
+		{
+			"name" : "QuickLib_LIB_DEPENDS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Dependencies for the target"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "general;sfml-graphics;"
 		},
 		{
 			"name" : "QuickLib_SOURCE_DIR",

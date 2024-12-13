@@ -37,6 +37,6 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "devel" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "bin" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/bin/sfml-window-d-2.dll")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/alexs/various cpp/QuickLib/QuickLib/out/build/x64-debug/_deps/sfml-build/lib/sfml-window-d-2.dll")
 endif()
 

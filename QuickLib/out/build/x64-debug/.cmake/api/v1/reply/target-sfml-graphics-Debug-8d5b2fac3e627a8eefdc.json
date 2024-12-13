@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bin/sfml-graphics-d-2.dll"
+			"path" : "_deps/sfml-build/lib/sfml-graphics-d-2.dll"
 		},
 		{
 			"path" : "_deps/sfml-build/lib/sfml-graphics-d.lib"

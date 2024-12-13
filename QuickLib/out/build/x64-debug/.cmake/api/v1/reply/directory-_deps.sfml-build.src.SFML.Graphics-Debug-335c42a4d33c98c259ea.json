@@ -9,7 +9,7 @@
 		"files" : 
 		[
 			"out/build/x64-debug/_deps/sfml-src/cmake/Macros.cmake",
-			"out/build/x64-debug/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt"
+			"out/build/x64-debug/_deps/sfml-src/src/SFML/Graphics/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -19,7 +19,7 @@
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 80,
+				"line" : 89,
 				"parent" : 0
 			},
 			{
@@ -38,10 +38,10 @@
 			"destination" : "lib",
 			"paths" : 
 			[
-				"_deps/sfml-build/lib/sfml-audio-d.lib"
+				"_deps/sfml-build/lib/sfml-graphics-d.lib"
 			],
-			"targetId" : "sfml-audio::@a153e5727587c53fce98",
-			"targetIndex" : 1,
+			"targetId" : "sfml-graphics::@98af38147d5fa7e70f61",
+			"targetIndex" : 2,
 			"targetIsImportLibrary" : true,
 			"type" : "target"
 		},
@@ -51,16 +51,16 @@
 			"destination" : "bin",
 			"paths" : 
 			[
-				"bin/sfml-audio-d-2.dll"
+				"_deps/sfml-build/lib/sfml-graphics-d-2.dll"
 			],
-			"targetId" : "sfml-audio::@a153e5727587c53fce98",
-			"targetIndex" : 1,
+			"targetId" : "sfml-graphics::@98af38147d5fa7e70f61",
+			"targetIndex" : 2,
 			"type" : "target"
 		}
 	],
 	"paths" : 
 	{
-		"build" : "_deps/sfml-build/src/SFML/Audio",
-		"source" : "out/build/x64-debug/_deps/sfml-src/src/SFML/Audio"
+		"build" : "_deps/sfml-build/src/SFML/Graphics",
+		"source" : "out/build/x64-debug/_deps/sfml-src/src/SFML/Graphics"
 	}
 }
